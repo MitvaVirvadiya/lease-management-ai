@@ -1,0 +1,127 @@
+DEED OF LEASE
+(Commercial — Retail Outlet)
+
+THIS DEED OF LEASE is made at New Delhi on the commencement date set out in Schedule I.
+
+BETWEEN
+
+Select Infrastructure Pvt Ltd (CIN U70101DL2004PTC128910), the “Lessor”;
+
+AND
+
+Northstar Retail Private Limited (CIN U52100MH2014PTC258441), trading as “Volt Athletica”, the “Lessee”;
+
+AND
+
+Northstar Holdings LLP, as Guarantor (if any).
+
+WHEREAS the Lessor is seized of the premises described in Schedule I at Select Citywalk, and the Lessee wishes to take the same on lease for the permitted use.
+
+NOW THIS DEED WITNESSES as follows.
+
+CLAUSE 1 — DEMISE
+The Lessor demises to the Lessee Unit B-22 on Basement 1 of Select Citywalk, admeasuring 2400 sq ft carpet, situated at A-3, District Centre, Saket, New Delhi 110017, together with the right to use common areas in common with other occupants.
+
+CLAUSE 2 — TERM
+The term is 7 years commencing 2022-10-01 and expiring 2029-09-30, unless sooner determined. Possession was (or shall be) given on 2022-08-20. Rent commences 2022-10-01.
+
+CLAUSE 3 — LOCK-IN
+The parties are locked in for 2 years, ending 2024-09-30. During lock-in the Lessee shall not determine this deed except for Lessor default.
+
+CLAUSE 4 — RENT
+Monthly base rent is ₹8,10,000 (INR), being approximately ₹338 per sq ft. Rent shall escalate by 10% annual, next on 2026-10-01. The first 0 month(s) from rent commencement are free of base rent (CAM remains payable). Turnover rent of 5% of net sales applies if annual sales exceed 2.5× annual base rent.
+
+CLAUSE 5 — CAM AND OTHER CHARGES
+CAM ₹2,16,000 per month; HVAC ₹48,000; parking ₹24,000; marketing fund ₹32,000. GST is applicable on rent and CAM.
+
+CLAUSE 6 — DEPOSITS
+Interest-free security deposit of ₹48,60,000 (equal to 6 months’ base rent), plus fit-out deposit ₹6,00,000. Deposit shall bear interest. The Lessor may draw against the deposit for unpaid dues on seven days’ notice.
+
+CLAUSE 7 — PAYMENT
+Rent and charges are payable on or before the 10th day of each month, monthly in advance, by NEFT. Late payment attracts 2% per month.
+
+
+CLAUSE 12.1 — NOTICE TO QUIT
+Either party shall give written notice of 90 days prior to expiration or earlier determination.
+
+
+CLAUSE 9 — USE AND RADIUS
+Permitted use: Athletic apparel and footwear; no food service. Exclusive: Performance athletics in basement sports cluster. The Lessee shall not open a competing outlet within 4 km of the mall entrance.
+
+CLAUSE 10 — OPTIONS
+Renewal option: yes, 3 years, notice 120 days.
+Expansion / ROFR: no.
+Early termination (post lock-in): yes.
+
+CLAUSE 11 — COMPLIANCE
+Public liability insurance of not less than ₹3,00,00,000. Signage: Fascia only. Assignment: Prior written consent. Fit-out period: 40 days.
+
+CLAUSE 13 — NOTICES
+Notices to the Lessee at: Northstar Retail, 14th Floor, One BKC, Mumbai 400051.
+
+IN WITNESS WHEREOF the parties have executed this deed.
+
+————————————————————————————————
+SCHEDULE I — PARTICULARS OF THE DEMISE
+Instrument LS-SCW-B22 · Select Citywalk · Unit B-22 · Volt Athletica
+
+01. Lessor: Select Infrastructure Pvt Ltd
+02. Lessor CIN: U70101DL2004PTC128910
+03. Lessee: Northstar Retail Private Limited
+04. Trading brand: Volt Athletica
+05. Lessee CIN: U52100MH2014PTC258441
+06. Guarantor: Northstar Holdings LLP
+07. Notice address: Northstar Retail, 14th Floor, One BKC, Mumbai 400051
+08. Mall: Select Citywalk
+09. Unit: B-22
+10. Floor: Basement 1
+11. Premises address: A-3, District Centre, Saket, New Delhi 110017
+12. City: New Delhi
+13. State: Delhi
+14. PIN: 110017
+15. Carpet area (sq ft): 2400
+16. Permitted use: Athletic apparel and footwear; no food service
+17. Commencement: 2022-10-01
+18. Possession: 2022-08-20
+19. Rent commencement: 2022-10-01
+20. Expiration: 2029-09-30
+21. Term (years): 7
+22. Lock-in (years): 2
+23. Lock-in ends: 2024-09-30
+24. Notice (days): 90
+25. Base rent / month: ₹8,10,000
+26. Base rent / sq ft: ₹338
+27. Currency: INR
+28. Escalation %: 10%
+29. Escalation cadence: annual
+30. Next escalation: 2026-10-01
+31. Free rent (months): 0
+32. Turnover rent %: 5%
+33. Security deposit: ₹48,60,000
+34. Deposit (months of rent): 6
+35. Deposit bears interest: Yes
+36. Fit-out deposit: ₹6,00,000
+37. CAM / month: ₹2,16,000
+38. CAM / sq ft: ₹90
+39. HVAC / month: ₹48,000
+40. Parking / month: ₹24,000
+41. Marketing fund / month: ₹32,000
+42. Renewal option: Yes
+43. Renewal term (years): 3
+44. Renewal notice (days): 120
+45. Expansion / ROFR: No
+46. Early termination: Yes
+47. Radius restriction (km): 4
+48. Exclusive use: Performance athletics in basement sports cluster
+49. Insurance cover: ₹3,00,00,000
+50. Fit-out period (days): 40
+51. Signage: Fascia only
+52. Assignment: Prior written consent
+53. GST on rent: Yes
+54. Payment day of month: 10
+55. Payment mode: NEFT
+56. Late fee % / month: 2%
+57. Billing cycle: Monthly in advance
+
+
+Page ends. This is a synthetic instrument for the Lease OS demonstration. It is not a real contract and names of malls are used as setting only.

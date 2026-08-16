@@ -1,0 +1,127 @@
+DEED OF LEASE
+(Commercial — Retail Outlet)
+
+THIS DEED OF LEASE is made at Chandigarh on the commencement date set out in Schedule I.
+
+BETWEEN
+
+LTM Corporate Advisory Services Ltd (CIN U74140CH2007PLC030881), the “Lessor”;
+
+AND
+
+Northstar Retail Private Limited (CIN U52100MH2014PTC258441), trading as “Volt Athletica”, the “Lessee”;
+
+AND
+
+Northstar Holdings LLP, as Guarantor (if any).
+
+WHEREAS the Lessor is seized of the premises described in Schedule I at Elante Mall, and the Lessee wishes to take the same on lease for the permitted use.
+
+NOW THIS DEED WITNESSES as follows.
+
+CLAUSE 1 — DEMISE
+The Lessor demises to the Lessee Unit G-07 on Ground of Elante Mall, admeasuring 1960 sq ft carpet, situated at Industrial Area Phase I, Chandigarh 160002, together with the right to use common areas in common with other occupants.
+
+CLAUSE 2 — TERM
+The term is 7 years commencing 2023-03-01 and expiring 2030-02-28, unless sooner determined. Possession was (or shall be) given on 2023-01-20. Rent commences 2023-03-01.
+
+CLAUSE 3 — LOCK-IN
+The parties are locked in for 3 years, ending 2026-02-28. During lock-in the Lessee shall not determine this deed except for Lessor default.
+
+CLAUSE 4 — RENT
+Monthly base rent is ₹3,20,000 (INR), being approximately ₹163 per sq ft. Rent shall escalate by 10% annual, next on 2027-03-01. The first 0 month(s) from rent commencement are free of base rent (CAM remains payable). Turnover rent of 5% of net sales applies if annual sales exceed 2.5× annual base rent.
+
+CLAUSE 5 — CAM AND OTHER CHARGES
+CAM ₹98,000 per month; HVAC ₹24,000; parking ₹10,000; marketing fund ₹14,000. GST is applicable on rent and CAM.
+
+CLAUSE 6 — DEPOSITS
+Interest-free security deposit of ₹19,20,000 (equal to 6 months’ base rent), plus fit-out deposit ₹2,50,000. Deposit shall not bear interest. The Lessor may draw against the deposit for unpaid dues on seven days’ notice.
+
+CLAUSE 7 — PAYMENT
+Rent and charges are payable on or before the 5th day of each month, monthly in advance, by NACH. Late payment attracts 2% per month.
+
+
+CLAUSE 12.1 — NOTICE TO QUIT
+Either party shall give written notice of 90 days prior to expiration or earlier determination.
+
+
+CLAUSE 9 — USE AND RADIUS
+Permitted use: Athletic apparel and community run club. Exclusive: Run-specialty athletics on Ground. The Lessee shall not open a competing outlet within 8 km of the mall entrance.
+
+CLAUSE 10 — OPTIONS
+Renewal option: yes, 3 years, notice 120 days.
+Expansion / ROFR: no.
+Early termination (post lock-in): yes.
+
+CLAUSE 11 — COMPLIANCE
+Public liability insurance of not less than ₹1,00,00,000. Signage: Fascia only. Assignment: Consent required. Fit-out period: 40 days.
+
+CLAUSE 13 — NOTICES
+Notices to the Lessee at: Northstar Retail, 14th Floor, One BKC, Mumbai 400051.
+
+IN WITNESS WHEREOF the parties have executed this deed.
+
+————————————————————————————————
+SCHEDULE I — PARTICULARS OF THE DEMISE
+Instrument LS-ELT-G07 · Elante · Unit G-07 · Volt Athletica
+
+01. Lessor: LTM Corporate Advisory Services Ltd
+02. Lessor CIN: U74140CH2007PLC030881
+03. Lessee: Northstar Retail Private Limited
+04. Trading brand: Volt Athletica
+05. Lessee CIN: U52100MH2014PTC258441
+06. Guarantor: Northstar Holdings LLP
+07. Notice address: Northstar Retail, 14th Floor, One BKC, Mumbai 400051
+08. Mall: Elante Mall
+09. Unit: G-07
+10. Floor: Ground
+11. Premises address: Industrial Area Phase I, Chandigarh 160002
+12. City: Chandigarh
+13. State: Chandigarh
+14. PIN: 160002
+15. Carpet area (sq ft): 1960
+16. Permitted use: Athletic apparel and community run club
+17. Commencement: 2023-03-01
+18. Possession: 2023-01-20
+19. Rent commencement: 2023-03-01
+20. Expiration: 2030-02-28
+21. Term (years): 7
+22. Lock-in (years): 3
+23. Lock-in ends: 2026-02-28
+24. Notice (days): 90
+25. Base rent / month: ₹3,20,000
+26. Base rent / sq ft: ₹163
+27. Currency: INR
+28. Escalation %: 10%
+29. Escalation cadence: annual
+30. Next escalation: 2027-03-01
+31. Free rent (months): 0
+32. Turnover rent %: 5%
+33. Security deposit: ₹19,20,000
+34. Deposit (months of rent): 6
+35. Deposit bears interest: No
+36. Fit-out deposit: ₹2,50,000
+37. CAM / month: ₹98,000
+38. CAM / sq ft: ₹50
+39. HVAC / month: ₹24,000
+40. Parking / month: ₹10,000
+41. Marketing fund / month: ₹14,000
+42. Renewal option: Yes
+43. Renewal term (years): 3
+44. Renewal notice (days): 120
+45. Expansion / ROFR: No
+46. Early termination: Yes
+47. Radius restriction (km): 8
+48. Exclusive use: Run-specialty athletics on Ground
+49. Insurance cover: ₹1,00,00,000
+50. Fit-out period (days): 40
+51. Signage: Fascia only
+52. Assignment: Consent required
+53. GST on rent: Yes
+54. Payment day of month: 5
+55. Payment mode: NACH
+56. Late fee % / month: 2%
+57. Billing cycle: Monthly in advance
+
+
+Page ends. This is a synthetic instrument for the Lease OS demonstration. It is not a real contract and names of malls are used as setting only.

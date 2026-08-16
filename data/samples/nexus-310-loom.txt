@@ -1,0 +1,127 @@
+DEED OF LEASE
+(Commercial — Retail Outlet)
+
+THIS DEED OF LEASE is made at Bengaluru on the commencement date set out in Schedule I.
+
+BETWEEN
+
+Nexus Select Trust (CIN L70100MH2020PTC349120), the “Lessor”;
+
+AND
+
+Northstar Retail Private Limited (CIN U52100MH2014PTC258441), trading as “Loom & Last”, the “Lessee”;
+
+AND
+
+Northstar Holdings LLP, as Guarantor (if any).
+
+WHEREAS the Lessor is seized of the premises described in Schedule I at Nexus Mall Koramangala, and the Lessee wishes to take the same on lease for the permitted use.
+
+NOW THIS DEED WITNESSES as follows.
+
+CLAUSE 1 — DEMISE
+The Lessor demises to the Lessee Unit 310 on Level 3 of Nexus Mall Koramangala, admeasuring 2050 sq ft carpet, situated at 27th Main, Koramangala 1st Block, Bengaluru 560034, together with the right to use common areas in common with other occupants.
+
+CLAUSE 2 — TERM
+The term is 7 years commencing 2023-11-01 and expiring 2030-10-31, unless sooner determined. Possession was (or shall be) given on 2023-09-18. Rent commences 2023-11-01.
+
+CLAUSE 3 — LOCK-IN
+The parties are locked in for 3 years, ending 2026-10-31. During lock-in the Lessee shall not determine this deed except for Lessor default.
+
+CLAUSE 4 — RENT
+Monthly base rent is ₹5,40,000 (INR), being approximately ₹263 per sq ft. Rent shall escalate by 15% every 3 years, next on 2026-11-01. The first 2 month(s) from rent commencement are free of base rent (CAM remains payable). Turnover rent of 5% of net sales applies if annual sales exceed 2.5× annual base rent.
+
+CLAUSE 5 — CAM AND OTHER CHARGES
+CAM ₹1,64,000 per month; HVAC ₹36,000; parking ₹16,000; marketing fund ₹20,000. GST is applicable on rent and CAM.
+
+CLAUSE 6 — DEPOSITS
+Interest-free security deposit of ₹32,40,000 (equal to 6 months’ base rent), plus fit-out deposit ₹4,00,000. Deposit shall not bear interest. The Lessor may draw against the deposit for unpaid dues on seven days’ notice.
+
+CLAUSE 7 — PAYMENT
+Rent and charges are payable on or before the 8th day of each month, monthly in advance, by NACH. Late payment attracts 2% per month.
+
+
+CLAUSE 12.1 — NOTICE TO QUIT
+Either party shall give written notice of 90 days prior to expiration or earlier determination.
+
+
+CLAUSE 9 — USE AND RADIUS
+Permitted use: Home textiles, linen, and made-to-measure drapery. Exclusive: Home linen on Level 3. The Lessee shall not open a competing outlet within 5 km of the mall entrance.
+
+CLAUSE 10 — OPTIONS
+Renewal option: yes, 5 years, notice 150 days.
+Expansion / ROFR: yes.
+Early termination (post lock-in): yes.
+
+CLAUSE 11 — COMPLIANCE
+Public liability insurance of not less than ₹1,80,00,000. Signage: Fascia only. Assignment: Group assignment on notice. Fit-out period: 50 days.
+
+CLAUSE 13 — NOTICES
+Notices to the Lessee at: Northstar Retail, 14th Floor, One BKC, Mumbai 400051.
+
+IN WITNESS WHEREOF the parties have executed this deed.
+
+————————————————————————————————
+SCHEDULE I — PARTICULARS OF THE DEMISE
+Instrument LS-NXK-310 · Nexus Koramangala · Unit 310 · Loom & Last
+
+01. Lessor: Nexus Select Trust
+02. Lessor CIN: L70100MH2020PTC349120
+03. Lessee: Northstar Retail Private Limited
+04. Trading brand: Loom & Last
+05. Lessee CIN: U52100MH2014PTC258441
+06. Guarantor: Northstar Holdings LLP
+07. Notice address: Northstar Retail, 14th Floor, One BKC, Mumbai 400051
+08. Mall: Nexus Mall Koramangala
+09. Unit: 310
+10. Floor: Level 3
+11. Premises address: 27th Main, Koramangala 1st Block, Bengaluru 560034
+12. City: Bengaluru
+13. State: Karnataka
+14. PIN: 560034
+15. Carpet area (sq ft): 2050
+16. Permitted use: Home textiles, linen, and made-to-measure drapery
+17. Commencement: 2023-11-01
+18. Possession: 2023-09-18
+19. Rent commencement: 2023-11-01
+20. Expiration: 2030-10-31
+21. Term (years): 7
+22. Lock-in (years): 3
+23. Lock-in ends: 2026-10-31
+24. Notice (days): 90
+25. Base rent / month: ₹5,40,000
+26. Base rent / sq ft: ₹263
+27. Currency: INR
+28. Escalation %: 15%
+29. Escalation cadence: every 3 years
+30. Next escalation: 2026-11-01
+31. Free rent (months): 2
+32. Turnover rent %: 5%
+33. Security deposit: ₹32,40,000
+34. Deposit (months of rent): 6
+35. Deposit bears interest: No
+36. Fit-out deposit: ₹4,00,000
+37. CAM / month: ₹1,64,000
+38. CAM / sq ft: ₹80
+39. HVAC / month: ₹36,000
+40. Parking / month: ₹16,000
+41. Marketing fund / month: ₹20,000
+42. Renewal option: Yes
+43. Renewal term (years): 5
+44. Renewal notice (days): 150
+45. Expansion / ROFR: Yes
+46. Early termination: Yes
+47. Radius restriction (km): 5
+48. Exclusive use: Home linen on Level 3
+49. Insurance cover: ₹1,80,00,000
+50. Fit-out period (days): 50
+51. Signage: Fascia only
+52. Assignment: Group assignment on notice
+53. GST on rent: Yes
+54. Payment day of month: 8
+55. Payment mode: NACH
+56. Late fee % / month: 2%
+57. Billing cycle: Monthly in advance
+
+
+Page ends. This is a synthetic instrument for the Lease OS demonstration. It is not a real contract and names of malls are used as setting only.
