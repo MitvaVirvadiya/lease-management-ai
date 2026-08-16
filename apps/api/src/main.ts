@@ -10,13 +10,22 @@ config({ path: resolve(__dirname, "../../.env") });
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
   const origin = process.env.WEB_ORIGIN || "http://localhost:3015";
+  const origins = Array.from(
+    new Set([
+      origin,
+      origin.replace("localhost", "127.0.0.1"),
+      origin.replace("127.0.0.1", "localhost"),
+      "http://localhost:3015",
+      "http://127.0.0.1:3015",
+    ]),
+  );
   app.enableCors({
-    origin,
+    origin: origins,
     credentials: true,
   });
   const port = Number(process.env.API_PORT || process.env.PORT || 4005);
-  await app.listen(port);
-  console.log(`Lease OS API on :${port} (CORS ${origin})`);
+  await app.listen(port, "0.0.0.0");
+  console.log(`Lease OS API on :${port} (CORS ${origins.join(", ")})`);
 }
 
 bootstrap();
