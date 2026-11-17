@@ -3,7 +3,8 @@
   "private": true,
   "workspaces": [
     "apps/web",
-    "apps/api"
+    "apps/api",
+    "apps/agents"
   ],
   "scripts": {
     "dev": "npm run dev --workspaces --if-present",
@@ -13,6 +14,12 @@
     "db:generate": "npm run db:generate -w @lease-os/api",
     "db:migrate": "npm run db:migrate -w @lease-os/api",
     "db:push": "npm run db:push -w @lease-os/api",
-    "db:seed": "npm run db:seed -w @lease-os/api"
+    "db:seed": "npm run db:seed -w @lease-os/api",
+    "dev:agents": "npm run dev -w @lease-os/agents",
+    "test:agents": "npm run test -w @lease-os/agents",
+    "format": "prettier --write apps/agents/src"
+  },
+  "devDependencies": {
+    "prettier": "^3.10.1"
   }
 }
